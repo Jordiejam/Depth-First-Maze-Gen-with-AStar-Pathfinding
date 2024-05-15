@@ -1,7 +1,7 @@
 Inspired by these coding train videos!
 
-- A* Pathfinding Algorithm (Coding Challeng
-e 51 - Part 1)
+- A* Pathfinding Algorithm (Coding Challenge 51 - Part 1)
+
 https://www.youtube.com/watch?v=aKYlikFAV4k
 
 - Coding Challenge #10.1: Maze Generator with p5.js
